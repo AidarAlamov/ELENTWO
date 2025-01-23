@@ -1,7 +1,7 @@
-ent-AmeController = контроллер ДАМ
-    .desc = Это контроллер для двигателя антиматерии.
+ent-AmeController = Управление ядром
+    .desc = Необходим для регулировки подачи топлива
 ent-AmeControllerUnanchored = { ent-AmeController }
-    .suffix = Не закреплено
+    .suffix = Unanchored
     .desc = { ent-AmeController.desc }
-ent-AmeShielding = экранирование ДАМ
-    .desc = Впускает антиматерию и выпускает материю.
+ent-AmeShielding = Часть ядра
+    .desc = Поддерживает работу центральных ядре, либо формирует их

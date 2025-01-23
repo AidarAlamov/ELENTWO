@@ -1,9 +1,9 @@
-ent-CrateEngineeringAMEShielding = ящик компонентов ДАМ
-    .desc = 9 частей, для создания нового или расширения существующего двигателя антиматерии.
-ent-CrateEngineeringAMEJar = ящик антиматериевого топлива
-    .desc = Три канистры антиматериевого топлива, для заправки двигателя антиматерии.
-ent-CrateEngineeringAMEControl = ящик с контроллером управления ДАМ
-    .desc = Управляющий компьютер ДАМ.
+ent-CrateEngineeringAMEShielding = ящик компонентов ядер материи
+    .desc = 9 частей, для создания нового или расширения существующих ядер.
+ent-CrateEngineeringAMEJar = ящик топлива тёмной материи
+    .desc = Три канистры топлива тёмной материи, для заправки двигателя антиматерии.
+ent-CrateEngineeringAMEControl = ящик с контроллером управления ядрами тёмной материи
+    .desc = Управляющий компьютер ядер тёмной материи.
 ent-CrateEngineeringSingularityEmitter = ящик с эмиттером
     .desc = Эмиттер, использующийся в сингулярном двигателе.
 ent-CrateEngineeringSingularityCollector = ящик с коллектором радиации

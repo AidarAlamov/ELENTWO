@@ -97,6 +97,15 @@
 
 - type: entity
   parent: PosterBase
+  id: PosterUssr
+  name: "Герой СССР"
+  description: "Кубинский революционер"
+  components:
+  - type: Sprite
+    state: poster5
+
+- type: entity
+  parent: PosterBase
   id: PosterContrabandClown
   name: "Clown"
   description: "Honk."

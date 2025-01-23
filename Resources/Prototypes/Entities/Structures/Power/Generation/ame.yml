@@ -1,7 +1,7 @@
 - type: entity
   id: AmeController
-  name: AME controller
-  description: It's a controller for the antimatter engine.
+  name: Реактор тёмной материи
+  description: Используеться в промышленных целях
   placement:
     mode: SnapgridCenter
   components:
@@ -120,8 +120,8 @@
 
 - type: entity
   id: AmeShielding
-  name: AME shielding
-  description: Keeps the antimatter in and the matter out.
+  name: Щит тёмной матрии
+  description: Один из составляющих тёмной материи
   placement:
     mode: SnapgridCenter
   components:

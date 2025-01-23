@@ -8,7 +8,7 @@
     - 0     # carbon dioxide
     - 0.01  # plasma
   effects:
-    - !type:PlasmaFireReaction {}
+    - !type:AmmoniaOxygenReaction {}
 
 - type: gasReaction
   id: TritiumFire

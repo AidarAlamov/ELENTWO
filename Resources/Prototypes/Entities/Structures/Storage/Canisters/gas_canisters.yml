@@ -366,8 +366,8 @@
 - type: entity
   parent: GasCanister
   id: PlasmaCanister
-  name: plasma canister
-  description: A canister that can contain any type of gas. This one is supposed to contain plasma. It can be attached to connector ports using a wrench.
+  name: Канистра тёмной материи
+  description: Используеться для промышленных целей, не вскрывать!
   components:
     - type: Sprite
       layers:
@@ -405,6 +405,8 @@
           acts: [ "Destruction" ]
         - !type:DumpCanisterBehavior
     - type: Lock
+    - type: StaticPrice
+      price: 200
       locked: true
 
 - type: entity
