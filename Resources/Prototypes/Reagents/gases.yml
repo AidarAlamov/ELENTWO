@@ -57,7 +57,7 @@
 
 - type: reagent
   id: Plasma
-  name: Тёмная материя[ЭКОНОМИКА]
+  name: Гипер-реактив[ЭКОНОМИКА]
   desc: Имеет свойства плазмы, строго запрещено использовать в корыстных целях!
   physicalDesc: reagent-physical-desc-gaseous
   flavor: unknown

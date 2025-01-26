@@ -1,11 +1,11 @@
 - type: gasReaction
   id: PlasmaFire
   priority: -2
-  minimumTemperature: 373.149 # Same as Atmospherics.FireMinimumTemperatureToExist
+  minimumTemperature: 200.149 # Same as Atmospherics.FireMinimumTemperatureToExist
   minimumRequirements: # In this case, same as minimum mole count.
     - 0.01  # oxygen
     - 0     # nitrogen
-    - 0     # carbon dioxide
+    - 0.01  # carbon dioxide
     - 0.01  # plasma
   effects:
     - !type:AmmoniaOxygenReaction {}
